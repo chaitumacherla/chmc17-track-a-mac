@@ -1,0 +1,60 @@
+commit 2a2396ceb33bf510b977f4bb860fae6e3b25d053 (HEAD -> main, origin/main, origin/HEAD)
+Author: chaitumacherla <chaitumacherla98@gmail.com>
+Date:   Mon Dec 14 20:05:30 2020 +0100
+
+    added list of python packages
+
+commit 8028ee0655f1e4353d1339d64cc5e842bd0a1af3
+Author: chaitumacherla <chaitumacherla98@gmail.com>
+Date:   Mon Dec 14 20:04:54 2020 +0100
+
+    added list of software packages
+
+commit 76c4b9101d331ebc8ad671be1defebd03271145a
+Author: chaitumacherla <chaitumacherla98@gmail.com>
+Date:   Mon Dec 14 20:03:06 2020 +0100
+
+    added a php file to remove device details
+
+commit e41e2af39cd0ce3dfd337841c9577daf1a7ed971
+Author: chaitumacherla <chaitumacherla98@gmail.com>
+Date:   Mon Dec 14 20:02:08 2020 +0100
+
+    added a php file to search for ip addresses and port
+
+commit 73655174e44af28852ae3327f9376032cd5de203
+Author: chaitumacherla <chaitumacherla98@gmail.com>
+Date:   Mon Dec 14 20:01:09 2020 +0100
+
+    added a backend file in python to probe devices
+
+commit ccc11d964ca91cf8e95318689d6a96d66119c753
+Author: chaitumacherla <chaitumacherla98@gmail.com>
+Date:   Mon Dec 14 20:00:12 2020 +0100
+
+    added a php file to show probing details
+
+commit 93f4c16cccbbfd5b350c7b6d4baa9f6cb395b8b9
+Author: chaitumacherla <chaitumacherla98@gmail.com>
+Date:   Mon Dec 14 19:59:16 2020 +0100
+
+    added a php file to show mac addresses
+
+commit 13178e6ce6f7f27350558962e8781aa17efe0815
+Author: chaitumacherla <chaitumacherla98@gmail.com>
+Date:   Mon Dec 14 19:58:08 2020 +0100
+
+    added a php file to configure a database
+
+commit c4da8411098a6cadde802a222898e654e7661116
+Author: chaitumacherla <chaitumacherla98@gmail.com>
+Date:   Mon Dec 14 19:54:31 2020 +0100
+
+    added a php file which adds device details
+
+commit af3841e3db0535d152e9db08ec0849efa92b206e
+Author: chaitumacherla <51096432+chaitumacherla@users.noreply.github.com>
+Date:   Mon Dec 14 19:44:34 2020 +0100
+
+    Initial commit
+
